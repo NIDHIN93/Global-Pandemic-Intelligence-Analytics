@@ -1,0 +1,52 @@
+Province_State,Date,Confirmed,Deaths,Death rate (%),Death-data flagged
+Alabama,2020-07-27,81115,1447,1.78,False
+Alaska,2020-07-27,2623,67,2.55,True
+Arizona,2020-07-27,163827,3349,2.04,False
+Arkansas,2020-07-27,39447,408,1.03,False
+California,2020-07-27,458121,8494,1.85,False
+Colorado,2020-07-27,44547,1799,4.04,False
+Connecticut,2020-07-27,48983,4418,9.02,False
+Delaware,2020-07-27,14406,569,3.95,False
+District of Columbia,2020-07-27,11780,581,4.93,False
+Florida,2020-07-27,432747,5941,1.37,False
+Georgia,2020-07-27,170843,3429,2.01,False
+Hawaii,2020-07-27,1711,25,1.46,False
+Idaho,2020-07-27,18692,232,1.24,True
+Illinois,2020-07-27,173894,7417,4.27,False
+Indiana,2020-07-27,62907,2709,4.31,False
+Iowa,2020-07-27,42696,1028,2.41,False
+Kansas,2020-07-27,25804,529,2.05,True
+Kentucky,2020-07-27,27586,709,2.57,False
+Louisiana,2020-07-27,109917,3675,3.34,False
+Maine,2020-07-27,3832,119,3.11,False
+Maryland,2020-07-27,84876,3544,4.18,False
+Massachusetts,2020-07-27,115926,8553,7.38,False
+Michigan,2020-07-27,87173,6420,7.36,False
+Minnesota,2020-07-27,51803,1582,3.05,False
+Mississippi,2020-07-27,52781,1498,2.84,False
+Missouri,2020-07-27,43489,1218,2.8,False
+Montana,2020-07-27,3380,47,1.39,False
+Nebraska,2020-07-27,24899,317,1.27,False
+Nevada,2020-07-27,43831,739,1.69,False
+New Hampshire,2020-07-27,6441,409,6.35,False
+New Jersey,2020-07-27,179812,15804,8.79,False
+New Mexico,2020-07-27,19502,619,3.17,False
+New York,2020-07-27,412344,32645,7.92,False
+North Carolina,2020-07-27,114916,1838,1.6,False
+North Dakota,2020-07-27,5986,99,1.65,False
+Ohio,2020-07-27,85177,3344,3.93,False
+Oklahoma,2020-07-27,32685,495,1.51,False
+Oregon,2020-07-27,17088,289,1.69,False
+Pennsylvania,2020-07-27,112995,7132,6.31,False
+Rhode Island,2020-07-27,18515,0,0.0,False
+South Carolina,2020-07-27,82417,1707,2.07,False
+South Dakota,2020-07-27,8444,1126,13.33,True
+Tennessee,2020-07-27,96489,962,1.0,False
+Texas,2020-07-27,400336,5633,1.41,False
+Utah,2020-07-27,38409,297,0.77,False
+Vermont,2020-07-27,1402,137,9.77,True
+Virginia,2020-07-27,86072,2082,2.42,False
+Washington,2020-07-27,53321,1518,2.85,False
+West Virginia,2020-07-27,5999,104,1.73,False
+Wisconsin,2020-07-27,49417,893,1.81,False
+Wyoming,2020-07-27,2520,1,0.04,False

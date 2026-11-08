@@ -1,0 +1,7 @@
+dataset,rows,columns,duplicate_rows,cols_with_missing,total_missing_cells
+clean_complete,49068,10,0,1,34404
+country_latest,187,15,0,0,0
+day_wise,188,12,0,0,0
+full_grouped,35156,10,0,0,0
+worldometer,209,16,0,14,819
+usa_county,627920,14,0,2,3008

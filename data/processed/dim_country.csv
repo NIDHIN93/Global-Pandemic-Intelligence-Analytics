@@ -1,0 +1,210 @@
+Country/Region,WHO Region,Population,Tests/1M pop
+US,Americas,331198130.0,190640.0
+Brazil,Americas,212710692.0,62085.0
+India,South-EastAsia,1381344997.0,16035.0
+Russia,Europe,145940924.0,203623.0
+South Africa,Africa,59381566.0,53044.0
+Mexico,Americas,129066160.0,8189.0
+Peru,Americas,33016319.0,75521.0
+Chile,Americas,19132514.0,92022.0
+Colombia,Americas,50936262.0,35374.0
+Spain,Europe,46756648.0,151087.0
+Iran,EasternMediterranean,84097623.0,31068.0
+United Kingdom,Europe,67922029.0,257873.0
+Saudi Arabia,EasternMediterranean,34865919.0,104277.0
+Pakistan,EasternMediterranean,221295851.0,9304.0
+Bangladesh,South-EastAsia,164851401.0,7432.0
+Italy,Europe,60452568.0,117443.0
+Turkey,Europe,84428331.0,60191.0
+Argentina,Americas,45236884.0,17564.0
+Germany,Europe,83811260.0,102452.0
+France,Europe,65288306.0,61147.0
+Iraq,EasternMediterranean,40306025.0,27111.0
+Philippines,WesternPacific,109722719.0,15220.0
+Indonesia,South-EastAsia,273808365.0,5965.0
+Canada,Americas,37775022.0,114339.0
+Qatar,EasternMediterranean,2807805.0,181993.0
+Kazakhstan,Europe,18798667.0,115099.0
+Egypt,EasternMediterranean,102516525.0,1317.0
+Ecuador,Americas,17668824.0,14635.0
+Bolivia,Americas,11688459.0,15706.0
+Sweden,Europe,10105596.0,85429.0
+Oman,EasternMediterranean,5118446.0,60411.0
+Israel,Europe,9197590.0,203581.0
+Ukraine,Europe,43705858.0,25549.0
+Dominican Republic,Americas,10858648.0,25963.0
+Panama,Americas,4321282.0,55769.0
+Belgium,Europe,11594739.0,152407.0
+Kuwait,EasternMediterranean,4276658.0,122105.0
+Belarus,Europe,9449001.0,142269.0
+United Arab Emirates,EasternMediterranean,9902079.0,531470.0
+Romania,Europe,19224023.0,68631.0
+Netherlands,Europe,17138756.0,63007.0
+Singapore,WesternPacific,5854932.0,251817.0
+Guatemala,Americas,17946899.0,9624.0
+Portugal,Europe,10193593.0,167308.0
+Poland,Europe,37842302.0,62752.0
+Nigeria,Africa,206606300.0,1485.0
+Honduras,Americas,9919704.0,11018.0
+Bahrain,EasternMediterranean,1706669.0,513691.0
+Japan,WesternPacific,126435859.0,7425.0
+Armenia,Europe,2963811.0,57898.0
+Ghana,Africa,31133483.0,13035.0
+Kyrgyzstan,Europe,6534479.0,40970.0
+Afghanistan,EasternMediterranean,39009447.0,2317.0
+Switzerland,Europe,8660952.0,94997.0
+Algeria,Africa,43926079.0,
+Azerbaijan,Europe,10148243.0,75499.0
+Morocco,EasternMediterranean,36953359.0,37448.0
+Uzbekistan,Europe,33516027.0,41112.0
+Serbia,Europe,8733665.0,82799.0
+Moldova,Europe,4032983.0,31757.0
+Ireland,Europe,4943200.0,132084.0
+Kenya,Africa,53881160.0,6223.0
+Venezuela,Americas,28427499.0,55138.0
+Nepal,South-EastAsia,29186486.0,25079.0
+Austria,Europe,9011577.0,104008.0
+Costa Rica,Americas,5098730.0,18850.0
+Ethiopia,Africa,115223736.0,4069.0
+Australia,WesternPacific,25528864.0,181419.0
+El Salvador,Americas,6489514.0,38720.0
+Czechia,Europe,10711019.0,68030.0
+Cameroon,Africa,26606188.0,5600.0
+Cote d'Ivoire,Africa,26437950.0,3956.0
+South Korea,WesternPacific,51273732.0,31471.0
+Denmark,Europe,5794279.0,285542.0
+West Bank and Gaza,EasternMediterranean,5112340.0,39176.0
+Bosnia and Herzegovina,Europe,3278650.0,44842.0
+Bulgaria,Europe,6942854.0,42358.0
+Madagascar,Africa,27755708.0,1668.0
+Sudan,EasternMediterranean,43943536.0,9.0
+North Macedonia,Europe,2083365.0,52773.0
+Senegal,Africa,16783877.0,6838.0
+Norway,Europe,5425471.0,87152.0
+Congo (Kinshasa),Africa,89802183.0,
+Malaysia,WesternPacific,32406372.0,30591.0
+French Guiana,,299385.0,138324.0
+Gabon,Africa,2230563.0,38272.0
+Tajikistan,Europe,9557468.0,
+Guinea,Africa,13164905.0,1094.0
+Haiti,Americas,11416103.0,1616.0
+Finland,Europe,5541604.0,70287.0
+Zambia,Africa,18430129.0,4900.0
+Luxembourg,Europe,626952.0,995282.0
+Mauritania,Africa,4660728.0,12313.0
+Paraguay,Americas,7141091.0,18943.0
+Albania,Europe,2877470.0,13553.0
+Lebanon,EasternMediterranean,6822220.0,50609.0
+Croatia,Europe,4102577.0,30546.0
+Djibouti,EasternMediterranean,989387.0,60552.0
+Greece,Europe,10417673.0,59456.0
+Libya,EasternMediterranean,6880353.0,8677.0
+Equatorial Guinea,Africa,1407001.0,31525.0
+Maldives,South-EastAsia,541448.0,158071.0
+Central African Republic,Africa,4837752.0,6116.0
+Hungary,Europe,9657785.0,36504.0
+Malawi,Africa,19174839.0,1745.0
+Zimbabwe,Africa,14883803.0,9434.0
+Nicaragua,Americas,6632263.0,
+Hong Kong,WesternPacific,7503041.0,92287.0
+Congo (Brazzaville),Africa,5530506.0,
+Montenegro,Europe,628074.0,61182.0
+Thailand,South-EastAsia,69817894.0,10731.0
+Somalia,EasternMediterranean,15933012.0,
+Mayotte,,273419.0,47546.0
+Eswatini,Africa,1161348.0,17896.0
+Sri Lanka,South-EastAsia,21422362.0,7783.0
+Cuba,Americas,11325899.0,25205.0
+Cabo Verde,Africa,556581.0,110735.0
+Namibia,Africa,2545264.0,11485.0
+Mali,Africa,20302901.0,1239.0
+Slovakia,Europe,5459915.0,49877.0
+South Sudan,Africa,11206572.0,1075.0
+Slovenia,Europe,2078968.0,65274.0
+Lithuania,Europe,2718121.0,198955.0
+Estonia,Europe,1326627.0,92626.0
+Mozambique,Africa,31333962.0,2079.0
+Rwanda,Africa,12981546.0,22051.0
+Suriname,Americas,587154.0,4743.0
+Guinea-Bissau,Africa,1972277.0,761.0
+Benin,Africa,12151976.0,7709.0
+Iceland,Europe,341465.0,438385.0
+Sierra Leone,Africa,7992169.0,
+Yemen,EasternMediterranean,29886897.0,4.0
+Tunisia,EasternMediterranean,11830801.0,8478.0
+New Zealand,WesternPacific,5002100.0,97348.0
+Angola,Africa,32956300.0,1965.0
+Uruguay,Americas,3474956.0,36535.0
+Latvia,Europe,1883936.0,110359.0
+Jordan,EasternMediterranean,10213138.0,61562.0
+Liberia,Africa,5068618.0,
+Uganda,Africa,45867852.0,6287.0
+Cyprus,Europe,1208238.0,179267.0
+Georgia,Europe,3988368.0,60294.0
+Burkina Faso,Africa,20954852.0,
+Niger,Africa,24281433.0,373.0
+Togo,Africa,8296582.0,5516.0
+Syria,EasternMediterranean,17539600.0,
+Jamaica,Americas,2962478.0,14123.0
+Malta,Europe,441663.0,309541.0
+Andorra,Europe,77278.0,48526.0
+Chad,Africa,16467965.0,
+Gambia,Africa,2422754.0,2139.0
+Sao Tome and Principe,Africa,219544.0,14025.0
+Botswana,Africa,2356075.0,29041.0
+Bahamas,Americas,393616.0,12230.0
+Vietnam,WesternPacific,97425470.0,4952.0
+Lesotho,Africa,2143943.0,4091.0
+Diamond Princess,,,
+San Marino,Europe,33938.0,178797.0
+Réunion,,895952.0,39532.0
+Channel Islands,,174022.0,176535.0
+Guyana,Americas,786936.0,6563.0
+Tanzania,Africa,59886383.0,
+Taiwan*,WesternPacific,23821199.0,3473.0
+Comoros,Africa,871326.0,
+Burundi,Africa,11922216.0,1310.0
+Burma,South-EastAsia,54446389.0,2246.0
+Mauritius,Africa,1271985.0,161389.0
+Isle of Man,,85078.0,101401.0
+Mongolia,WesternPacific,3283344.0,11675.0
+Eritrea,Africa,3551175.0,
+Guadeloupe,,400131.0,46175.0
+Martinique,,375235.0,32585.0
+Faeroe Islands,,48882.0,880590.0
+Aruba,,106812.0,131511.0
+Cambodia,WesternPacific,16741375.0,4050.0
+Trinidad and Tobago,Americas,1399950.0,6828.0
+Cayman Islands,,65798.0,472780.0
+Gibraltar,,33690.0,684565.0
+Papua New Guinea,WesternPacific,8963009.0,1206.0
+Sint Maarten,,42924.0,25976.0
+Bermuda,Americas,62254.0,423298.0
+Brunei,Western Pacific,437893.0,93968.0
+Barbados,Americas,287411.0,42563.0
+Turks and Caicos,,38768.0,32295.0
+Seychelles,Africa,98408.0,
+Monaco,Europe,39270.0,972982.0
+Bhutan,South-EastAsia,772443.0,70671.0
+Antigua and Barbuda,Americas,98010.0,15305.0
+Liechtenstein,Europe,38139.0,23598.0
+Belize,Americas,398312.0,9236.0
+French Polynesia,,281072.0,20810.0
+Saint Vincent and the Grenadines,Americas,110976.0,22050.0
+Saint Martin,,38729.0,30546.0
+Macao,,650193.0,6261.0
+Curaçao,,164161.0,6579.0
+Fiji,WesternPacific,897095.0,7461.0
+Saint Lucia,Americas,183712.0,21202.0
+Timor-Leste,South-EastAsia,1320812.0,3209.0
+Grenada,Americas,112576.0,55536.0
+New Caledonia,,285769.0,38839.0
+Laos,WesternPacific,7285750.0,4032.0
+Dominica,Americas,72004.0,13958.0
+Saint Kitts and Nevis,Americas,53237.0,21526.0
+Greenland,Europe,56780.0,105266.0
+Montserrat,,4992.0,12220.0
+Caribbean Netherlands,,26247.0,16154.0
+Falkland Islands,,3489.0,520493.0
+Holy See,Europe,801.0,
+Western Sahara,Africa,598682.0,
